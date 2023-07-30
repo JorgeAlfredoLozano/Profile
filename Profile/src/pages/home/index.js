@@ -53,7 +53,34 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
+                  
                 </div>
+                <div className="columns-container">
+  <div className="column">
+    <h3>FRONT</h3>
+    <hr/>
+    <p>React + JS</p>
+  </div>
+  <div className="column">
+    <br/>
+    <h3>+</h3>
+  </div>
+  <div className="column">
+    <h3>BACK</h3>
+    <hr/>
+    <p>Node + Express</p>
+  </div>
+  <div className="column">
+    <br/>
+    <h3>=</h3>
+  </div>
+  <div className="column">
+    <h3>FULL STACK</h3>
+    <hr/>
+    <p>Web SPA</p>
+  </div>
+</div>
+
               </div>
             </div>
           </div>
