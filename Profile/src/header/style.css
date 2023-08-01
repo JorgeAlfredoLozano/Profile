@@ -205,3 +205,11 @@
     margin-right: 10px;
     text-decoration: none;
 }
+.btn_idioma {
+    height: 25px;
+    border-radius: 50px;
+    margin-right: 5px;
+}
+.btn_idioma:last-child {
+    margin-right: 0; 
+  }
